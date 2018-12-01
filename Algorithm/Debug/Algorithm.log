@@ -1,0 +1,4 @@
+﻿  swea2382.cpp
+c:\users\jh\source\repos\algorithm\algorithm\swea2382.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jh\source\repos\algorithm\algorithm\swea2382.cpp(105): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Algorithm.vcxproj -> C:\Users\JH\source\repos\Algorithm\Debug\Algorithm.exe
